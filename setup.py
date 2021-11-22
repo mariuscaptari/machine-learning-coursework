@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='A short description of the project.',
+    description='Formula 1 predictions for the machine learning final project.',
     author='Group 02',
     license='',
 )
