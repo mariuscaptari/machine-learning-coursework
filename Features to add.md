@@ -1,23 +1,25 @@
 # Features to be created
 
 - [x] Qualifying position
-- [x] Driver age (in years) at that time
-- [x] Years in F1
-- [ ] Percentage difference in qualifying time from pole position * 100  (e.g. 102.3%)
+- [x] Driver age (in years) at race
+- [x] Years of experience in F1
+- [x] Percentage difference in qualifying time from pole position * 100  (e.g. 102.3%)
 - [x] Starts in front-row
-- [ ] Races won in career
-- [ ] Races won in season till that race
+- [x] Races won in career
+- [x] Races won in season till that race
 - [ ] Races started
-- [ ] Races finished
-- [ ] Pole positions won
+- [x] Races finished
+- [x] Races retired
+- [x] Pole positions won
 - [ ] Drivers championships won
 - [ ] Driver championship classification last year
-- [ ] Drivers championship position this season
+- [x] Drivers championship position this season
+- [x] Drivers championship points this season
 - [ ] Max, min, avg positions gained/lost during last X races
 - [ ] Max, min, avg finishing position in the last X races
 - [ ] Correlation between qualifying and race results per driver
-- [ ] Previous race final position
-- [ ] Previous race qualifying position
+- [x] Previous race final position
+- [x] Previous race qualifying position
 - [ ] Positions gained in previous race
 - [ ] Race and Qualifying position in same race last year
 - [ ] Positions gained in same race last year
@@ -26,23 +28,24 @@
 - [ ] Avg lap-time excl. pit stops in last race
 - [ ] Avg lap-time consistency excl. pit stops in last race
 - [ ] Max/min/avg/std speed in previous race
-- [ ] Rank on avg/std of speed in previous race
-- [ ] Constructors name
+- [x] Rank on lap time speed in previous race
+
+- [x] Constructors name
 - [ ] Constructors championship won
-- [ ] Constructors races won
-- [ ] Constructors races won this that season
+- [x] Constructors races won
+- [x] Constructors races won this that season
+- [x] Constructors points this season
 - [ ] Constructors championship won in last X years
 - [ ] Constructors championship classification last year
-- [ ] Constructors championship position at the time
+- [x] Constructors championship position at the time
 - [ ] Max (Team-mate qualifying position, Driver qualifying position)
 - [ ] Max, min, avg positions gained/lost during last X races
 - [ ] Max, min, avg position in the last X races
 - [ ] Percentage difference in top-speed from top in last-race * 100 (e.g. 99.5%)
-- [ ] Times retired
 - [ ] Times retired in last X races
 - [ ] Max/min/avg speed in previous race
 - [ ] Rank on avg/std of speed in previous race
 - [x] Circuit name
 - [x] Racing at home (in home country)
-- [ ] Race rank in season (i.e. 1-21)
+- [x] Race rank in season (i.e. 1-21)
 - [ ] Average overtakes per race
