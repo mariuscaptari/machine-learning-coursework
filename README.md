@@ -4,7 +4,7 @@
 
 Final project for the Machine Learning course. Group 02.
 
-All data taken from <a target="_blank" href="http://ergast.com/mrd/">ergast</a>, a public api for Formula 1 historic data.
+All data taken from [ergast](http://ergast.com/mrd/), a public api for Formula 1 historic data.
 
 ## Project Organization
 
