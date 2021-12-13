@@ -1,12 +1,13 @@
-### Formula 1 predictions
+# Formula 1 predictions
 
 ==============================
 
 Final project for the Machine Learning course. Group 02.
 
-<p><small>All data taken from <a target="_blank" href="http://ergast.com/mrd/">ergast</a>, a public api for Formula 1 historic data.</small></p>
+All data taken from <a target="_blank" href="http://ergast.com/mrd/">ergast</a>, a public api for Formula 1 historic data.
 
-Project Organization
+## Project Organization
+
 ------------
 
     ├── LICENSE
@@ -49,4 +50,10 @@ Project Organization
     └── visualization  <- Scripts to create exploratory and results oriented visualizations
         └── visualize.py
 
---------
+------------
+
+To update the project requirements:
+
+```console
+pip list --format=freeze > requirements.txt
+```
