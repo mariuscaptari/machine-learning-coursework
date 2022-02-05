@@ -6,6 +6,12 @@ Final project for the Machine Learning course. Group 02.
 
 All data taken from [ergast](http://ergast.com/mrd/), a public api for Formula 1 historic data.
 
+To install the project requirements:
+
+```console
+pip install -r requirements.txt
+```
+
 ## Project Organization
 
 ------------
